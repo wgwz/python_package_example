@@ -22,7 +22,7 @@ Often times I find it useful to write a test as failing:
         # add code as necessary to get your tests to pass
         assert False
 
-, I find this pattern nice to iteratively edit and add code.
+I find this pattern nice to iteratively edit and add code.
 
 Mocking
 -------
